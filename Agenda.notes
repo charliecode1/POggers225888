@@ -1,0 +1,6 @@
+THIS IS OUR AGENDA AND THE GAME WE WILL ADD ON THAT DATE!
+          <li class="navbar__item">
+            <a href="news.html" class="navbar__links" id="news-page">Enews</a>
+          </li> // news update
+           <button class="main__btn"><a href="news3.html">Next Page</a></button>
+           <button class="main__btn"><a href="https://forms.gle/tF2Xdq14NwJmdog99">Apply!</a></button>
